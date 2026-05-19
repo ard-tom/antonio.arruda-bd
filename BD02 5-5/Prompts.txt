@@ -1,0 +1,15 @@
+Para contextualizar, ao invés de eu ter pedido para IA gerar dados falsos, eu pedi o auxílio dela para a criação de um programa em Python no qual possibilitaria a geração desses dados com completa eficiência.
+
+A IA Utilizada para a criação do mesmo citado é o Claude Code, uma IA especializada em escrever códigos em múltiplas linguagens de programação.
+
+A seguir, veremos os primeiros prompts utilizados na conversa. Adendo: Os prompts foram escritos em Inglês americano por essa ter sido a linguagem inicial sugerida no site.
+
+"Hello, I'm a Brazilian system development student currently in my penultimate year of high school.
+In recent assignments, I have been working with MySQL Workbench, Python and JavaScript.
+I would like you to teach and assist me with both personal and academic studies.
+I really would like you to teach me how to create virtual Python environments in Linux Mint and also use the Faker library, so then I can create fake names to insert in my MySQL assignment."
+
+"Olá, sou um estudante brasileiro de Desenvolvimento de Sistemas no penúltimo ano de Ensino Médio.
+Nas minhas lições recentes, estive trabalhando com MySQL Workbench, Python e JavaScript.
+Eu gostaria que você me ensinasse, me auxiliasse tanto com estudos pessoais e acadêmicos.
+Também gostaria que você me ensinasse como posso criar ambientes virtuais em Python no Linux Mint e também a usar a biblioteca Faker, para que assim eu possa criar nomes falsos para inserir na minha atividade de MySQL."
